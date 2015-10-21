@@ -1,4 +1,4 @@
 class Test{
-	// from branch master
+	// from branch master edit
 
 }
